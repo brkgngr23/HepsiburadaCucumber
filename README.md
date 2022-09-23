@@ -13,7 +13,7 @@
 - Allure installed and configured
 ### Languages & Environments & Tools
 
-![Open JDK](https://img.shields.io/github/v/tag/openjdk/jdk11u?color=%23ff9800&label=openjdk%2011&logo=java&logoColor=%23ff9800&style=for-the-badge) ![Maven](https://img.shields.io/github/v/tag/apache/maven?color=ff5733&label=apache&logo=apache&logoColor=ff5733&style=for-the-badge) ![NodeJS](https://img.shields.io/github/v/release/nodejs/node?color=%23026e00&label=node.js&logo=node.js&style=for-the-badge)
+![Open JDK](https://img.shields.io/github/v/tag/openjdk/jdk11u?color=%23ff9800&label=openjdk%2011&logo=java&logoColor=%23ff9800&style=for-the-badge) ![Maven](https://img.shields.io/github/v/tag/apache/maven?color=ff5733&label=apache&logo=apache&logoColor=ff5733&style=for-the-badge)
 
 Make sure you have installed all the following prerequisites on your development machine:
 
