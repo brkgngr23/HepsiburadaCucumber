@@ -1,0 +1,91 @@
+
+
+[main] 2022-09-23 21:35:35.104 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:35:46.709 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:36:07.439 ERROR - An error occurred while checking if the web element is existing: 
+ org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[contains(text(),'Yarın Kapında')]"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PQ3LK52', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56582}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 21cbb9b60704fc825f1b75bf7adc8e09
+*** Element info: {Using=xpath, value=//label[contains(text(),'Yarın Kapında')]}
+[main] 2022-09-23 21:36:09.052 INFO  - Scenario finished : Hepsiburada Case
+[main] 2022-09-23 21:36:20.894 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:36:30.371 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:42:01.997 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:42:13.272 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:42:41.435 INFO  - kağıt urunu basariyla arandi
+[main] 2022-09-23 21:42:45.329 INFO  - Urun detay sayfasina gidildi
+[main] 2022-09-23 21:42:48.236 INFO  - Urune yapilan ilk yorum begenildi
+[main] 2022-09-23 21:42:48.237 INFO  - Tesekkur ederiz text'i goruldu.
+[main] 2022-09-23 21:42:49.025 INFO  - Scenario finished : Hepsiburada Case
+[main] 2022-09-23 21:44:53.285 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:45:03.044 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:45:29.001 INFO  - kağıt urunu basariyla arandi
+[main] 2022-09-23 21:45:42.243 INFO  - Urun detay sayfasina gidildi
+[main] 2022-09-23 21:45:44.617 INFO  - Urune yapilan ilk yorum begenildi
+[main] 2022-09-23 21:45:44.617 INFO  - Tesekkur ederiz text'i goruldu.
+[main] 2022-09-23 21:45:45.519 INFO  - Scenario finished : Hepsiburada Case
+[main] 2022-09-23 21:46:19.539 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:46:29.140 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:46:36.594 ERROR - An error occurred while checking if the web element is existing: 
+ org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PQ3LK52', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57816}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a2a04b507f677ca76bc414ceab4bc63
+[main] 2022-09-23 21:46:37.980 INFO  - Scenario finished : Hepsiburada Case
+[main] 2022-09-23 21:46:57.959 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:47:07.216 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:47:16.176 ERROR - An error occurred while checking if the web element is existing: 
+ org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PQ3LK52', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57999}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6563b74f5ae71c26891a7fafc67f4d04
+[main] 2022-09-23 21:47:17.733 INFO  - Scenario finished : Hepsiburada Case
+[main] 2022-09-23 21:49:10.685 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:49:20.586 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:51:02.743 INFO  - iphone urunu basariyla arandi
+[main] 2022-09-23 21:51:11.355 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:51:18.558 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:51:28.400 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:51:40.611 ERROR - An error occurred while checking if the web element is existing: 
+ org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PQ3LK52', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58646}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fd1a2418efb37f3d698061dd808340e1
+[main] 2022-09-23 21:51:41.934 INFO  - Scenario finished : Hepsiburada Case
+[main] 2022-09-23 21:52:26.931 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:52:35.995 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:52:42.681 ERROR - An error occurred while checking if the web element is existing: 
+ org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PQ3LK52', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\burak\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58844}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a05c1d6a4d3e1a5a3ca413e6e18cef4d
+*** Element info: {Using=css selector, value=[class='horizontalSortingBar-rg0Pha8wpDmdnPUKhByO']}
+[main] 2022-09-23 21:52:44.225 INFO  - Scenario finished : Hepsiburada Case
+[main] 2022-09-23 21:55:55.467 INFO  - Scenario started : Hepsiburada Case
+[main] 2022-09-23 21:56:06.865 INFO  - Anasayfa basarili sekilde acildi
+[main] 2022-09-23 21:56:13.848 INFO  - iphone urunu basariyla arandi
+[main] 2022-09-23 21:56:18.983 INFO  - Urun detay sayfasina gidildi
+[main] 2022-09-23 21:56:22.074 INFO  - Urune yapilan ilk yorum begenildi
+[main] 2022-09-23 21:56:22.074 INFO  - Tesekkur ederiz text'i goruldu.
+[main] 2022-09-23 21:56:22.852 INFO  - Scenario finished : Hepsiburada Case
