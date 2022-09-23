@@ -3,7 +3,7 @@
 ## Introduction
 
 
-- **integration-test** is the Java-based automation project which is testing Hepsiburada using Selenium and Cucumber.
+- **Hepsiburada-cucumber** is the Java-based automation project which is testing Hepsiburada using Selenium and Cucumber.
 
 ## Pre-conditions
 
